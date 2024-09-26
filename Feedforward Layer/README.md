@@ -1,4 +1,4 @@
-Video to refer as a basic of neural network
+Video to refer to for a basic understanding of neural networks.
 
 [But what is a neural network?](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=1)
 
