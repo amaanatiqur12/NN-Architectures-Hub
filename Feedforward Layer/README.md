@@ -22,7 +22,8 @@ Takes multiple binary inputs 𝑥1,𝑥2,… and gives a binary output (0 or 1).
 
 Output is determined by: 
 
-![image](https://github.com/user-attachments/assets/e7f90802-9f3b-4b17-a222-f9554f8dc8f7)
+![image](https://github.com/user-attachments/assets/a277f2df-9786-40c3-9b8b-e1007d8fb33a)
+
 
 
 Weights 𝑤𝑗 determine the importance of inputs, and bias replaces the threshold.
