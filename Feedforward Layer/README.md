@@ -14,3 +14,18 @@ Video to refer to for a basic understanding of neural networks.
 [Book to refer for fundamental of neural network](http://neuralnetworksanddeeplearning.com/about.html)
 
 
+!Basic Structure of Neural Networks
+
+1)Perceptron:
+
+Takes multiple binary inputs 𝑥1,𝑥2,… and gives a binary output (0 or 1).
+
+Output is determined by: 
+
+![image](https://github.com/user-attachments/assets/e7f90802-9f3b-4b17-a222-f9554f8dc8f7)
+
+
+Weights 𝑤𝑗 determine the importance of inputs, and bias replaces the threshold.
+
+2)Sigmoid Neurons: Improve over perceptrons by producing outputs in the range [0,1] and enabling smoother learning through gradual changes.
+
