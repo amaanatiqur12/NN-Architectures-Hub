@@ -14,7 +14,7 @@ Video to refer to for a basic understanding of neural networks.
 [Book to refer for fundamental of neural network](http://neuralnetworksanddeeplearning.com/about.html)
 
 
-!Basic Structure of Neural Networks
+# Basic Structure of Neural Networks
 
 1)Perceptron:
 
