@@ -24,9 +24,10 @@ Output is determined by:
 
 ![image](https://github.com/user-attachments/assets/a277f2df-9786-40c3-9b8b-e1007d8fb33a)
 
-
-
 Weights 𝑤𝑗 determine the importance of inputs, and bias replaces the threshold.
 
 2)Sigmoid Neurons: Improve over perceptrons by producing outputs in the range [0,1] and enabling smoother learning through gradual changes.
 
+![image](https://github.com/user-attachments/assets/530a67f9-bbc6-4dc2-b014-a1d37f2bd5e1)
+
+When z=w⋅x+b is large and positive, the sigmoid neuron output approximates 1, and when z is very negative, it approximates 0, behaving like a perceptron except when z is of modest size, where it deviates.
