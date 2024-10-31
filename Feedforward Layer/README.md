@@ -40,3 +40,12 @@ The specific cost function you provided is:
 ![image](https://github.com/user-attachments/assets/24c9e56e-d8b8-4a47-a9f9-13b585926302)
 
 ![image](https://github.com/user-attachments/assets/225f4853-a652-4acf-8324-7af32336f807)
+
+
+![image](https://github.com/user-attachments/assets/47d483cf-35ec-413c-9a61-aaab69adce17)
+
+![image](https://github.com/user-attachments/assets/613796d4-755c-4fa1-831b-4edd78f2394f)
+
+![image](https://github.com/user-attachments/assets/47a89fd7-fb86-49e6-ba38-6556c3f90797)
+
+
