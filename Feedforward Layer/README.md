@@ -13,6 +13,7 @@ Video to refer to for a basic understanding of neural networks.
 
 [Book to refer for fundamental of neural network](http://neuralnetworksanddeeplearning.com/about.html)
 
+- Networks with this kind of many-layer structure - two or more hidden layers - are called deep neural networks.
 
 #### Basic Structure of Neural Networks
 
