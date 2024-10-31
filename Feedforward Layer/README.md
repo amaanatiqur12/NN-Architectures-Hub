@@ -32,7 +32,7 @@ Weights 𝑤𝑗 determine the importance of inputs, and bias replaces the thres
 
 When z=w⋅x+b is large and positive, the sigmoid neuron output approximates 1, and when z is very negative, it approximates 0, behaving like a perceptron except when z is of modest size, where it deviates.
 
--
+---
 In neural networks, the cost function C(w,b) is used to measure how well the network's predictions match the actual data. It essentially quantifies the error between the predicted outputs and the actual labels. The goal of training a neural network is to minimize this cost function by adjusting the network’s weights (w) and biases (b).
 
 The specific cost function you provided is:
